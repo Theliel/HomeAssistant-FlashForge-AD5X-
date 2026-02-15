@@ -2,13 +2,24 @@
 It's not a universal HACS integration; it's my highly customized integration tailored to my needs. This isn't a universal HACS integration; While it could potentially work on other models, it would require modifications and changes due to the IFS system.
 
 
-### 📸 Galería del Proyecto
+### 📸 Galery
 
 | Status and Sensors | IFS and advanced | Printing Options |
 | :---: | :---: | :---: |
 | <a href="./assets/1.png"><img src="./assets/1.png" width="250"></a> | <a href="./assets/2.png"><img src="./assets/2.png" width="250"></a> | <a href="./assets/3.png"><img src="./assets/3.png" width="250"></a> |
 | **Configure SLOT** | **Storage Management** | **Update System** |
 | <a href="./assets/4.png"><img src="./assets/4.png" width="250"></a> | <a href="./assets/5.png"><img src="./assets/5.png" width="250"></a> | <a href="./assets/6.png"><img src="./assets/6.png" width="250"></a> |
+
+
+## 🎥 Using Tags Sample
+
+<div align="center">
+  <video src="./assets/tags.mp4" width="90%" controls muted autoplay loop>
+    Tu navegador no soporta la reproducción de vídeos.
+  </video>
+  <p><i>💡 Loop video.</i></p>
+</div>
+
 
 Status and Sensors:
 - Real-time display of printer status and print progress: Status, current/target temperatures, Image Model, spool in use, speed, layers...
