@@ -13,12 +13,7 @@ It's not a universal HACS integration; it's my highly customized integration tai
 
 ## 🎥 Using Tags Sample
 
-<div align="center">
-  <video src="https://github.com/TU_USUARIO/TU_REPO/raw/main/assets/tags_final.mp4" width="100%" controls muted autoplay loop></video>
-    Tu navegador no soporta la reproducción de vídeos.
-  </video>
-  <p><i>💡 Loop video.</i></p>
-</div>
+![Tags in Acttions](assets/tags.mp4)
 
 
 Status and Sensors:
