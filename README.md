@@ -63,9 +63,10 @@ Want to swap any spool? No problem, the "DB" is always up-to-date. Simply write 
 You can always easily and immediately scan it with your mobile phone when it is stored, and have all the data about it.
 
 
-Missing/TODO
--Investigate how to change Nozzle Model (0.25, 0.4...)
--Investigate how to safely list and delete internal models (Only 10 are listed and not remote deleting its allowed)
--Decide whether or not to integrate manual extrusion controls
--Add Native Camera: Since firmware 1.2.3 allows third-party cameras to be connected directly to the printer, once it's working properly I'll integrate a couple more things to coexist with the current viewing system, as well as the native camera controls.
--Multi-material: I don't usually print in more than one color at a time. After I do a couple of tests, I'll adjust the filament consumption per spool accordingly.
+Missing/TODO:
+
+- Investigate how to change Nozzle Model (0.25, 0.4...)
+- Investigate how to safely list and delete internal models (Only 10 are listed and not remote deleting its allowed)
+- Decide whether or not to integrate manual extrusion controls
+- Add Native Camera: Since firmware 1.2.3 allows third-party cameras to be connected directly to the printer, once it's working properly I'll integrate a couple more things to coexist with the current viewing system, as well as the native camera controls.
+- Multi-material: I don't usually print in more than one color at a time. After I do a couple of tests, I'll adjust the filament consumption per spool accordingly.
